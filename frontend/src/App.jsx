@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from '../src/components/Navbar';
-import Home from '../src/components/pages/Home';
-import LanguagePage from '../src/components/pages/LanguagePage';
-import PracticePage from '../src/components/pages/PracticePage';
-import DashboardPage from '../src/components/pages/DashboardPage';
-import RewardsPage from '../src/components/pages/RewardsPage';
-import CoursePage from './components/pages/CoursePage';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
+import LanguagePage from './pages/LanguagePage';
+import PracticePage from './pages/PracticePage';
+import DashboardPage from './pages/DashboardPage';
+import RewardsPage from './pages/RewardsPage';
+import CoursePage from './pages/CoursePage';
 import FileUploadAdmin from './components/ContentUpload'
 
 function App() {

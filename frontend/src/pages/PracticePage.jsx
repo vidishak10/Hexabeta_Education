@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import CodeEditor from '../CodeEditor';
+import CodeEditor from '../components/CodeEditor';
 
 function PracticePage({ match }) {
   const [code, setCode] = useState('// Write your code here');

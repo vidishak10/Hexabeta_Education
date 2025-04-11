@@ -167,8 +167,9 @@ const Home = () => {
       description: "Master the fundamentals of ML algorithms and applications",
       icon: Brain,
       color: "purple",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://www.naukri.com/campus/career-guidance/wp-content/uploads/2024/07/what-is-machine-learning.jpg",
     },
+    
     {
       id: "data-science",
       title: "Data Science",
