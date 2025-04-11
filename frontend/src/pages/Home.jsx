@@ -159,7 +159,7 @@ const Home = () => {
       description: "Learn how to design scalable systems and architecture",
       icon: Server,
       color: "blue",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://cdn.prod.website-files.com/6529762860f5d2796d4eb495/65e859ddcc41d9e6f8a7ef7b_What%20is%20system%20design-system%20design%20in%20SDLC-grorapidlabs.jpeg",
     },
     {
       id: "machine-learning",
@@ -176,7 +176,7 @@ const Home = () => {
       description: "Analyze and visualize data to extract meaningful insights",
       icon: Database,
       color: "green",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://wallpapers.com/images/featured/data-science-xe1pmo7wm4jcokpd.jpg",
     },
     {
       id: "sql",
@@ -184,7 +184,7 @@ const Home = () => {
       description: "Master database queries and management",
       icon: Database,
       color: "yellow",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://static.tildacdn.one/tild6262-6661-4034-b164-383063636462/What_is_SQL_Database.png",
     },
     {
       id: "html-css",
@@ -192,7 +192,7 @@ const Home = () => {
       description: "Build beautiful and responsive web pages",
       icon: Code,
       color: "orange",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://img-c.udemycdn.com/course/750x422/5396030_f3ee_5.jpg",
     },
     {
       id: "javascript",
@@ -200,7 +200,7 @@ const Home = () => {
       description: "Create interactive and dynamic web applications",
       icon: FileCode,
       color: "red",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://wpengine.com/wp-content/uploads/2021/07/jsheader.png",
     },
   ]
 
